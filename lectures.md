@@ -14,10 +14,10 @@ by Marcelo Paiva - UX-Dev Summit 2016
 - Has a heavy biased towards user interface design
 - Outputs pixel-based graphics, but it is not a pixel-based tool
 - A vector-based tool with an infinite size canvas
-- Create artboards for different screens; 
+- Create artboards for different screens;
 - Pages for different workflows;
-- Multiple fills for a single layer; 
-- Allow us to design different screens and states for a single application; 
+- Multiple fills for a single layer;
+- Allow us to design different screens and states for a single application;
 - Making it so easy to have every aspect of an application, conveniently in front of us, in a single document;
 - Design screens indepentently from resolution;
 - Export a single design for multiple devices and platforms;
@@ -29,10 +29,10 @@ by Marcelo Paiva - UX-Dev Summit 2016
 - vector graphics are made up of math
 - squares are fine, circles and angled shapes suffer
 - raster graphics has its use in photography
-- bottom line is that if you will be editing, scaling, moving objects around, it's better to work with vector objects. 
+- bottom line is that if you will be editing, scaling, moving objects around, it's better to work with vector objects.
 
 ##### Lecture 4: Interface Tour - 01:24
-- Sketch interface was designed to be streamlined and minimal. 
+- Sketch interface was designed to be streamlined and minimal.
 - No floating panels;
 - each document gets its own window
 - all the tools are contained in each respective window
@@ -58,7 +58,7 @@ by Marcelo Paiva - UX-Dev Summit 2016
 **How large is the canvas in Sketch?** > Answer: **Infinite**
 
 - So as you design you dont have to worry about running out of space
-- But you do need to worry about the size of the screen you are design for, which is why we have **Artboards** 
+- But you do need to worry about the size of the screen you are design for, which is why we have **Artboards**
 - On the top left corner, you should see the `Insert` button;
 - Select the **Artboard** tool or hit `letter A`
 - On the right hand side, you'll find a list of popular screen sizes
@@ -87,7 +87,7 @@ by Marcelo Paiva - UX-Dev Summit 2016
 - Text, Image and Shape layers
 - Group of objetcs (components) they a glued together
 - Group Section for organizational purposes (can be selected)
-- Check `Click-through when selecting` 
+- Check `Click-through when selecting`
 
 ##### Lecture 8: Interacting with Objects - 05:04
 - `Bounding box` around any object
@@ -100,13 +100,13 @@ by Marcelo Paiva - UX-Dev Summit 2016
 
 speaking of selecting...
 
-- `select + shift` adds to selection 
+- `select + shift` adds to selection
 - alignment guides support manual placement
 - `drag + shift` selects any object touched by the lasso
 - `drag + option` selects only objects entirely inside the lasso area
-- distributing > vertically / horizontally 
+- distributing > vertically / horizontally
 - aligning > hor / ver / ctr / right / left
-- `select + option` allows picking layer behind 
+- `select + option` allows picking layer behind
 - `select + shift` also deselect an object
 
 ##### Lecture 9: Easy Precision and Math - 04:42  
@@ -155,13 +155,13 @@ Draw a rectangle shape and hit `Return` to get into editing mode
 - `Straight` points - drag the selected point around
 - `Mirrored` - symetric control handles to create **smooth** curves
 - `Disconnected` - independent straight points
-- `Asymetric` - independent curved points 
+- `Asymetric` - independent curved points
 - `Double click` to toggle between straight and mirrored points
 - **Note - if you use straight points**, you'll get the bonus of the `Corners` slider
 - Just below, you can select if you want the points to land on a `full pixel edge`
 - Small `select points` button
 - `Add a control point` by clicking on the path of a line
-  
+
 ##### Lecture 15: Drawing Vector Shapes - 03:14
 - V - `Vector` allows us to create custom paths and shapes
 - `Click` to add straight lines
@@ -174,10 +174,10 @@ Draw a rectangle shape and hit `Return` to get into editing mode
 `SKIP THIS LECTURE`
 ##### Lecture 17: Boolean Operations - 09:24
 - `Union` - Football laces
-- `Intersect` - Football 
+- `Intersect` - Football
 - `Subtract` - Moon
-- `Difference` - DVD/TV - Deletes what's overlaping. Union doesn't work because of t=other boolean instructions in complex groups. 
-- `Flatten` - Rocket 
+- `Difference` - DVD/TV - Deletes what's overlaping. Union doesn't work because of t=other boolean instructions in complex groups.
+- `Flatten` - Rocket
   - `Intersect` rocket
   - `Subtract` tail
   - `Union` rocket+tail
@@ -186,26 +186,26 @@ Draw a rectangle shape and hit `Return` to get into editing mode
   - Instead, we want to `flatten` both
   - Then `Unite` them
   - `Subtract` the tip - and voilá!
-  
+
 ##### Lecture 18: Masking - 07:31  
 - **Outline Mask**
-  - Oval shape on the bottom 
+  - Oval shape on the bottom
   - Select two layers
   - Mask with selected shape
   - Creates a group containing bitmap and shape
   - shape is renamed `mask`
   - Draw rectangle `inside` the group
   - Select `ignore the underlying mask`
-  - Rectangle shows inside the masked group 
+  - Rectangle shows inside the masked group
 - **Alpha Mask**
-  - The `gradient opacity` dictactes the mask 
+  - The `gradient opacity` dictactes the mask
   - We will talk about `Gradients` in the next session
   - Copy masked group
   - We can use a gradient to be `fade out`
   - Select the `mask` shape
   - Then go to `Layer > Mask Mode > Alpha Mask`
   - Select `Fill`, then `Gradient`
-  
+
 ##### Lecture 19: Resizing vs Scaling - 04:21
 - `Borders` and `Shadows` need special attention when designing shapes
 - Sketch treats `borders and shadows` differently if an layer is `resized` or `scaled`
@@ -216,9 +216,13 @@ Draw a rectangle shape and hit `Return` to get into editing mode
 - Often times, we use UI kits that need to be resized for whatever reason
 - See iPhone 5 keyboard
 
+---
+# CONTINUE
+---
+
+
 ##### Lecture 20: Make Grid - 03:37
 - The `Make Grid` tool under the `Arrange` menu is very helpful for a number of repetitive situations
-- 
 
 ##### Lecture 21: Importing from Adobe Illustrator - 02:29  
 `Skip Lecture`
@@ -242,12 +246,12 @@ Draw a rectangle shape and hit `Return` to get into editing mode
 - Lecture 32: Basics of Text Editing - 07:15
 - Lecture 33: Area Text and Styling - 12:20  
 - Lecture 34: Text on a Path and Outlines - 02:24
- 
+
 ### Section: 6 - Images
 
 - Lecture 35: Image Adjustments - 01:15
 - Lecture 36: 9-Slice Images - 02:50  
- 
+
 ### Section: 7 - Symbols
 
 - Lecture 37: Symbols - 06:08  
@@ -257,7 +261,7 @@ Draw a rectangle shape and hit `Return` to get into editing mode
 - Lecture 38: Pixel Preview - 03:16
 - Lecture 39: Presentation Mode - 00:45
 - Lecture 40: Managing Tons of Layers - 07:51
-  
+
 ### Section: 9 - Exporting
 
 - Lecture 41: Exporting Artboards - 07:54
