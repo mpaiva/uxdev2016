@@ -1,6 +1,9 @@
 # Sketch Workshop
 by Marcelo Paiva - UX-Dev Summit 2016
 
+This is an updated of the Udemy Course title:
+
+
 ### Section: 1 - Introduction - 7 min
 
 ##### Lecture 1: Introduction - 01:02
@@ -216,53 +219,182 @@ Draw a rectangle shape and hit `Return` to get into editing mode
 - Often times, we use UI kits that need to be resized for whatever reason
 - See iPhone 5 keyboard
 
----
-# CONTINUE
----
-
-
 ##### Lecture 20: Make Grid - 03:37
-- The `Make Grid` tool under the `Arrange` menu is very helpful for a number of repetitive situations
+- The `Make Grid` tool under the `Arrange` menu is very helpful for a number of repetitive situations.
 
 ##### Lecture 21: Importing from Adobe Illustrator - 02:29  
-`Skip Lecture`
-
+`Skip Lecture?`
+- Copying and pasting works fine
+- However, there are some imcompatibility with the way objects are handled
+- AI handles gradients fill and stroke the Adobe way
+- AI gradients are not compatible with SVG standards
+- Text outlines need to be `united` after pasting
+- Sketch follows strict Web / SVG standards
 
 ### Section: 4 - Styling
 
-- Lecture 22: Fills - 08:44  
-- Lecture 23: Activity - Fills - 03:06
-- Lecture 24: Borders - 06:14
-- Lecture 25: Blending Modes and Opacity - 03:35
-- Lecture 26: The Magic of Shadows - 03:23
-- Lecture 27: Activity - Adding the Icons - 07:30  
-- Lecture 28: Blurs - 06:21
-- Lecture 29: Borrowing Style - 01:49
-- Lecture 30: Shared Styles - 02:41
-- Lecture 31: Finishing Touches - 08:59
+##### Lecture 22: Fills - 08:44  
+- Color picker
+- `saturation` is vertical, `brightness` is horizontal
+- top slider is `hue`
+- on the bottom you have the `alpha` slider to control transparence
+- Click on `HSB` or `RGB` to toggle color modes
+- Global Color palette - Corporate colors, Material, Bootstrap, etc
+- Document Palette - create palettes specific to the document
+- click the `+` sign to add a color to your palettes
+- There's a **plugins** that allows us to load and export palettes
+- OS X Dock Commands
+  - Hide Dock `option + command + D`
+  - Slide Separator to resize Dock
+- `Linear Gradient`
+- `Radial Gradient`
+- `Angular Gradient`
+- `Image Fill` - patter, texture, image
+- `Noise Fill` - footbal green grass
+- Thanks to SVG standards, Sketch has `Multiple Fills` 
+- Click the `+ sign` to add a fill
+- Drag up and down to `arrange fills`
+- Turn `on/off fills`
+- To delete fill, simply drag the fill off the inspector panel
 
+##### Lecture 23: Activity - Fills - 03:06
+- 
+- 
+- 
+- 
+- 
+##### Lecture 24: Borders - 06:14
+- 
+- 
+- 
+- 
+- 
+##### Lecture 25: Blending Modes and Opacity - 03:35
+- 
+- 
+- 
+- 
+- 
+##### Lecture 26: The Magic of Shadows - 03:23
+- 
+- 
+- 
+- 
+- 
+##### Lecture 27: Activity - Adding the Icons - 07:30  
+- 
+- 
+- 
+- 
+- 
+##### Lecture 28: Blurs - 06:21
+- 
+- 
+- 
+- 
+- 
+##### Lecture 29: Borrowing Style - 01:49
+- 
+- 
+- 
+- 
+- 
+##### Lecture 30: Shared Styles - 02:41
+- 
+- 
+- 
+- 
+- 
+##### Lecture 31: Finishing Touches - 08:59
+- 
+- 
+- 
+- 
+- 
 ### Section: 5 - Text
 
-- Lecture 32: Basics of Text Editing - 07:15
-- Lecture 33: Area Text and Styling - 12:20  
-- Lecture 34: Text on a Path and Outlines - 02:24
 
+##### Lecture 32: Basics of Text Editing - 07:15
+- 
+- 
+- 
+- 
+- 
+##### Lecture 33: Area Text and Styling - 12:20  
+- 
+- 
+- 
+- 
+- 
+##### Lecture 34: Text on a Path and Outlines - 02:24
+- 
+- 
+- 
+- 
+- 
 ### Section: 6 - Images
 
-- Lecture 35: Image Adjustments - 01:15
-- Lecture 36: 9-Slice Images - 02:50  
 
+##### Lecture 35: Image Adjustments - 01:15
+- 
+- 
+- 
+- 
+- 
+##### Lecture 36: 9-Slice Images - 02:50  
+- 
+- 
+- 
+- 
+- 
 ### Section: 7 - Symbols
 
-- Lecture 37: Symbols - 06:08  
 
+##### Lecture 37: Symbols - 06:08  
+- 
+- 
+- 
+- 
+- 
 ### Section: 8 - Workflow Pro Tips
 
-- Lecture 38: Pixel Preview - 03:16
-- Lecture 39: Presentation Mode - 00:45
-- Lecture 40: Managing Tons of Layers - 07:51
 
+##### Lecture 38: Pixel Preview - 03:16
+- 
+- 
+- 
+- 
+- 
+##### Lecture 39: Presentation Mode - 00:45
+- 
+- 
+- 
+- 
+- 
+##### Lecture 40: Managing Tons of Layers - 07:51
+- 
+- 
+- 
+- 
+- 
 ### Section: 9 - Exporting
 
-- Lecture 41: Exporting Artboards - 07:54
-- Lecture 42: Exporting Layers and Slices - 11:31
+
+##### Lecture 41: Exporting Artboards - 07:54
+- 
+- 
+- 
+- 
+- 
+##### Lecture 42: Exporting Layers and Slices - 11:31
+- 
+- 
+- 
+- 
+- 
+##### Lecture 43: Plugins
+- Color Palettes
+- Data
+- 
+- 
+- 
