@@ -234,7 +234,7 @@ Draw a rectangle shape and hit `Return` to get into editing mode
 ### Section: 4 - Styling
 
 ##### Lecture 22: Fills - 08:44  
-- Color picker
+- Color picker `Control + C`
 - `saturation` is vertical, `brightness` is horizontal
 - top slider is `hue`
 - on the bottom you have the `alpha` slider to control transparence
@@ -251,150 +251,83 @@ Draw a rectangle shape and hit `Return` to get into editing mode
 - `Angular Gradient`
 - `Image Fill` - patter, texture, image
 - `Noise Fill` - footbal green grass
-- Thanks to SVG standards, Sketch has `Multiple Fills` 
+- Thanks to SVG standards, Sketch has `Multiple Fills`
 - Click the `+ sign` to add a fill
 - Drag up and down to `arrange fills`
 - Turn `on/off fills`
 - To delete fill, simply drag the fill off the inspector panel
 
 ##### Lecture 23: Activity - Fills - 03:06
-- 
-- 
-- 
-- 
-- 
-##### Lecture 24: Borders - 06:14
-- 
-- 
-- 
-- 
-- 
-##### Lecture 25: Blending Modes and Opacity - 03:35
-- 
-- 
-- 
-- 
-- 
-##### Lecture 26: The Magic of Shadows - 03:23
-- 
-- 
-- 
-- 
-- 
-##### Lecture 27: Activity - Adding the Icons - 07:30  
-- 
-- 
-- 
-- 
-- 
-##### Lecture 28: Blurs - 06:21
-- 
-- 
-- 
-- 
-- 
-##### Lecture 29: Borrowing Style - 01:49
-- 
-- 
-- 
-- 
-- 
-##### Lecture 30: Shared Styles - 02:41
-- 
-- 
-- 
-- 
-- 
-##### Lecture 31: Finishing Touches - 08:59
-- 
-- 
-- 
-- 
-- 
-### Section: 5 - Text
+- `Skip` 
 
+##### Lecture 24: Borders - 06:14
+- Sketch can apply borders on masks
+- Gradient on borders
+- Position (center, inside, outside)
+- `cog` icon gives you access to end-point and gap options
+
+##### Lecture 25: Blending Modes and Opacity - 03:35
+- Blend modes don't
+ export, so becareful on how you choose to use and export your assets
+- I personally use blending modes only to give a bitmap some effect
+
+##### Lecture 26: The Magic of Shadows - 03:23
+- Multiple shadows
+- Inner Shadow
+- Gausian Blur
+-
+-
+##### Lecture 27: Activity - Adding the Icons - 07:30  
+`Skip`
+
+##### Lecture 28: Blurs - 06:21
+-
+-
+##### Lecture 29: Borrowing Style - 01:49
+- `Option + Command + C` to copy style
+- `Option + Command + V` to paste style
+
+##### Lecture 30: Shared Styles - 02:41
+- DRY - Don't Repeat Yourself! Create Shared Styles.
+
+##### Lecture 31: Finishing Touches - 08:59
+- `Skip this`
+
+### Section: 5 - Text
+This is pretty straight forward.
 
 ##### Lecture 32: Basics of Text Editing - 07:15
-- 
-- 
-- 
-- 
-- 
+- Typeface vs Font-family
+- `shift + enter` for line break
+
 ##### Lecture 33: Area Text and Styling - 12:20  
-- 
-- 
-- 
-- 
-- 
+- No Shared Character Styles
+
 ##### Lecture 34: Text on a Path and Outlines - 02:24
-- 
-- 
-- 
-- 
-- 
+
+
 ### Section: 6 - Images
 
+- ##### Lecture 35: Image Adjustments - 01:15
+- ##### Lecture 36: 9-Slice Images - 02:50  
 
-##### Lecture 35: Image Adjustments - 01:15
-- 
-- 
-- 
-- 
-- 
-##### Lecture 36: 9-Slice Images - 02:50  
-- 
-- 
-- 
-- 
-- 
 ### Section: 7 - Symbols
 
+- ##### Lecture 37: Symbols - 06:08  
 
-##### Lecture 37: Symbols - 06:08  
-- 
-- 
-- 
-- 
-- 
 ### Section: 8 - Workflow Pro Tips
 
+- ##### Lecture 38: Pixel Preview - 03:16
+- ##### Lecture 39: Presentation Mode - 00:45
+- ##### Lecture 40: Managing Tons of Layers - 07:51
 
-##### Lecture 38: Pixel Preview - 03:16
-- 
-- 
-- 
-- 
-- 
-##### Lecture 39: Presentation Mode - 00:45
-- 
-- 
-- 
-- 
-- 
-##### Lecture 40: Managing Tons of Layers - 07:51
-- 
-- 
-- 
-- 
-- 
 ### Section: 9 - Exporting
 
+- ##### Lecture 41: Exporting Artboards - 07:54
+- ##### Lecture 42: Exporting Layers and Slices - 11:31
 
-##### Lecture 41: Exporting Artboards - 07:54
-- 
-- 
-- 
-- 
-- 
-##### Lecture 42: Exporting Layers and Slices - 11:31
-- 
-- 
-- 
-- 
-- 
-##### Lecture 43: Plugins
+### Lecture 43: Plugins
 - Color Palettes
 - Data
-- 
-- 
-- 
+- [Long Shadow](https://github.com/JayHoltslander/Sketch-Make-Long-Shadow)
+
