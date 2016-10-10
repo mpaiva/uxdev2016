@@ -1,9 +1,6 @@
 # Sketch Workshop
 by Marcelo Paiva - UX-Dev Summit 2016
 
-This is an updated of the Udemy Course title:
-
-
 ### Section: 1 - Introduction - 7 min
 
 ##### Lecture 1: Introduction - 01:02
